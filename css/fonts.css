@@ -1,0 +1,19 @@
+@font-face{
+	font-family: 'Chronica';
+	src: url("./fonts/ChronicaPro-Regular.ttf");
+}
+
+@font-face{
+		font-family: 'Bahij';
+		src: url("./fonts/bahij-sultannahia.ttf");
+	}
+
+	@font-face{
+		font-family: 'OpenSans-bold';
+		src: url("./fonts/OpenSans-Bold.ttf");
+	}
+
+	@font-face{
+		font-family: 'OpenSans-SemiBold';
+		src: url("./fonts/OpenSans-SemiBold.ttf");
+	}
